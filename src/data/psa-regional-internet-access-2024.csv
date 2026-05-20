@@ -1,0 +1,18 @@
+region,access_rate,population,is_focus_region
+"NCR (National Capital Region)",85.2,13484462,0
+"CAR (Cordillera Administrative Region)",52.3,1797714,0
+"Region I (Ilocos Region)",61.4,5301139,0
+"Region II (Cagayan Valley)",54.7,3685744,0
+"Region III (Central Luzon)",72.1,12422172,0
+"Region IV-A (CALABARZON)",74.5,16195042,0
+"Region IV-B (MIMAROPA)",28.4,3228558,0
+"Region V (Bicol Region)",48.9,6082165,0
+"Region VI (Western Visayas)",44.8,7954723,0
+"Region VII (Central Visayas)",65.3,8081988,0
+"Region VIII (Eastern Visayas)",42.1,4547150,0
+"Region IX (Zamboanga Peninsula)",39.7,3875576,0
+"Region X (Northern Mindanao)",51.8,5022768,0
+"Region XI (Davao Region)",61.2,5243536,0
+"Region XII (SOCCSKSARGEN)",45.3,4809966,0
+"Region XIII (Caraga)",38.6,2804788,1
+"BARMM (Bangsamoro Autonomous Region)",31.2,4404288,0

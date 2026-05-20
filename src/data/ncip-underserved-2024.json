@@ -1,0 +1,16 @@
+{
+  "underservedGroups": [
+    { "group": "Indigenous Peoples (IP)", "nationalGap": 71.4, "caragaGap": 84.2, "color": "bg-red-600" },
+    { "group": "Rural Women", "nationalGap": 64.2, "caragaGap": 76.5, "color": "bg-red-500" },
+    { "group": "Persons with Disabilities (PWD)", "nationalGap": 58.7, "caragaGap": 71.3, "color": "bg-orange-500" },
+    { "group": "Senior Citizens (60+)", "nationalGap": 53.9, "caragaGap": 68.4, "color": "bg-amber-500" },
+    { "group": "Out-of-School Youth", "nationalGap": 47.3, "caragaGap": 59.2, "color": "bg-yellow-500" }
+  ],
+  "digitalDivideIndex": [
+    { "subject": "Access", "national": 65, "caraga": 35 },
+    { "subject": "Affordability", "national": 55, "caraga": 28 },
+    { "subject": "Digital Literacy", "national": 60, "caraga": 32 },
+    { "subject": "Local Content", "national": 45, "caraga": 20 },
+    { "subject": "Online Safety", "national": 50, "caraga": 25 }
+  ]
+}

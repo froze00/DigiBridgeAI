@@ -1,0 +1,22 @@
+{
+  "regionalInternetAccess": [
+    { "region": "NCR", "accessRate": 85.2, "population": 13484462 },
+    { "region": "Region III", "accessRate": 72.1, "population": 12422172 },
+    { "region": "Region IV-A", "accessRate": 74.5, "population": 16195042 },
+    { "region": "Region VII", "accessRate": 65.3, "population": 8081988 },
+    { "region": "Region XI", "accessRate": 61.2, "population": 5243536 },
+    { "region": "Region XIII (Caraga)", "accessRate": 38.6, "population": 2804788, "isFocus": true }
+  ],
+  "genderDistribution": [
+    { "name": "Male", "value": 54.8, "color": "#3b82f6" },
+    { "name": "Female", "value": 49.3, "color": "#ec4899" },
+    { "name": "Caraga Male", "value": 41.2, "color": "#60a5fa" },
+    { "name": "Caraga Female", "value": 36.0, "color": "#f472b6" }
+  ],
+  "locationData": [
+    { "location": "National Urban", "access": 65.3, "population": 52.7 },
+    { "location": "National Rural", "access": 31.8, "population": 47.3 },
+    { "location": "Caraga Urban", "access": 48.1, "population": 31.2 },
+    { "location": "Caraga Rural", "access": 19.4, "population": 68.8 }
+  ]
+}

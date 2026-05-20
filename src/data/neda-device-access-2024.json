@@ -1,0 +1,22 @@
+{
+  "deviceOwnership": [
+    { "type": "Smartphone", "national": 82.1, "caraga": 64.5 },
+    { "type": "Basic Phone", "national": 12.4, "caraga": 25.8 },
+    { "type": "Laptop/PC", "national": 24.3, "caraga": 11.2 },
+    { "type": "Tablet", "national": 15.6, "caraga": 6.4 },
+    { "type": "No Device", "national": 5.2, "caraga": 12.1 }
+  ],
+  "deviceSharing": [
+    { "status": "Personal Device", "national": 58.4, "caraga": 34.2 },
+    { "status": "Shared (2-3 people)", "national": 31.2, "caraga": 42.5 },
+    { "status": "Shared (4+ people)", "national": 10.4, "caraga": 23.3 }
+  ],
+  "internetSpeedProgress": [
+    { "month": "Jan", "national": 28.5, "caraga": 12.4 },
+    { "month": "Feb", "national": 29.1, "caraga": 13.1 },
+    { "month": "Mar", "national": 30.2, "caraga": 14.5 },
+    { "month": "Apr", "national": 31.5, "caraga": 15.2 },
+    { "month": "May", "national": 33.0, "caraga": 18.5 },
+    { "month": "Jun", "national": 34.2, "caraga": 21.0 }
+  ]
+}

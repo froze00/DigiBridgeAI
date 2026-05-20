@@ -1,0 +1,22 @@
+{
+  "regionalDigitalLiteracy": [
+    { "region": "NCR", "score": 82.5 },
+    { "region": "Region IV-A", "score": 75.3 },
+    { "region": "Region VII", "score": 68.9 },
+    { "region": "National Average", "score": 62.4 },
+    { "region": "Region XIII (Caraga)", "score": 41.2, "isFocus": true }
+  ],
+  "ageGroupAccess": [
+    { "age": "15-24", "national": 68.2, "caraga": 52.4 },
+    { "age": "25-44", "national": 61.4, "caraga": 44.1 },
+    { "age": "45-59", "national": 47.3, "caraga": 31.5 },
+    { "age": "60+", "national": 28.9, "caraga": 14.2 }
+  ],
+  "disabilityInclusion": [
+    { "category": "No Disability", "national": 90.7, "caraga": 88.1 },
+    { "category": "Visual Impairment", "national": 21.4, "caraga": 12.3 },
+    { "category": "Hearing Impairment", "national": 18.2, "caraga": 9.8 },
+    { "category": "Mobility Impairment", "national": 15.5, "caraga": 7.4 },
+    { "category": "Cognitive Disability", "national": 11.2, "caraga": 4.1 }
+  ]
+}

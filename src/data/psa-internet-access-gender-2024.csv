@@ -1,0 +1,7 @@
+category,region,gender,access_rate,population_percentage
+"National","Philippines","Male",54.8,50.2
+"National","Philippines","Female",49.3,49.8
+"Regional","Caraga (Region XIII)","Male",41.2,50.4
+"Regional","Caraga (Region XIII)","Female",36.0,49.6
+"National","Philippines","Non-Binary",48.1,0.3
+"Regional","Caraga (Region XIII)","Non-Binary",33.5,0.2

@@ -1,0 +1,50 @@
+{
+  "regionalComparison": [
+    { "region": "Region XIII (Caraga) ⭐", "access": 38.6, "speed": 24.3, "affordability": 42.8, "devices": 35.7, "isFocus": true },
+    { "region": "NCR (Metro Manila)", "access": 65.3, "speed": 71.2, "affordability": 62.4, "devices": 61.1, "isFocus": false },
+    { "region": "Region VII (Cebu)", "access": 58.7, "speed": 52.8, "affordability": 58.3, "devices": 54.2, "isFocus": false },
+    { "region": "Region XI (Davao)", "access": 51.2, "speed": 41.3, "affordability": 53.6, "devices": 48.7, "isFocus": false },
+    { "region": "Region VI (Iloilo)", "access": 44.8, "speed": 29.6, "affordability": 49.2, "devices": 42.3, "isFocus": false },
+    { "region": "MIMAROPA (Palawan)", "access": 28.4, "speed": 18.9, "affordability": 38.7, "devices": 31.5, "isFocus": false }
+  ],
+  "radarData": [
+    { "indicator": "Access Rate", "value": 52.1 },
+    { "indicator": "Speed (Mbps)", "value": 48.6 },
+    { "indicator": "Affordability", "value": 52.4 },
+    { "indicator": "Device Ownership", "value": 47.6 },
+    { "indicator": "Digital Literacy", "value": 43.2 },
+    { "indicator": "Inclusion Index", "value": 41.3 }
+  ],
+  "speedData": [
+    { "region": "Region XIII (Caraga) ⭐", "before": 11.2, "after": 24.3, "isFocus": true },
+    { "region": "NCR (Metro Manila)", "before": 32.4, "after": 71.2, "isFocus": false },
+    { "region": "Region VII (Cebu)", "before": 24.1, "after": 52.8, "isFocus": false },
+    { "region": "Region XI (Davao)", "before": 18.7, "after": 41.3, "isFocus": false },
+    { "region": "Region VI (Iloilo)", "before": 14.2, "after": 29.6, "isFocus": false },
+    { "region": "MIMAROPA (Palawan)", "before": 8.3, "after": 18.9, "isFocus": false }
+  ],
+  "digitalDivideIndex": [
+    { "month": "Sep 25", "index": 68.3 },
+    { "month": "Oct 25", "index": 66.7 },
+    { "month": "Nov 25", "index": 64.9 },
+    { "month": "Dec 25", "index": 63.2 },
+    { "month": "Jan 26", "index": 61.4 },
+    { "month": "Feb 26", "index": 59.8 },
+    { "month": "Mar 26", "index": 58.9 },
+    { "month": "Apr 26", "index": 58.7 }
+  ],
+  "costReductionData": [
+    { "month": "Jan 26", "reduction": 8.2 },
+    { "month": "Feb 26", "reduction": 12.4 },
+    { "month": "Mar 26", "reduction": 18.7 },
+    { "month": "Apr 26", "reduction": 22.3 }
+  ],
+  "accessImprovementData": [
+    { "month": "Nov 25", "access": 46.3 },
+    { "month": "Dec 25", "access": 48.7 },
+    { "month": "Jan 26", "access": 51.2 },
+    { "month": "Feb 26", "access": 53.9 },
+    { "month": "Mar 26", "access": 56.4 },
+    { "month": "Apr 26", "access": 58.8 }
+  ]
+}

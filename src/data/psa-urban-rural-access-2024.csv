@@ -1,0 +1,5 @@
+location_type,region,internet_access_rate,population_percentage,avg_monthly_income
+"Urban","National",65.3,52.7,28450
+"Rural","National",31.8,47.3,14230
+"Urban","Caraga (Region XIII)",48.1,31.2,19680
+"Rural","Caraga (Region XIII)",19.4,68.8,10450
